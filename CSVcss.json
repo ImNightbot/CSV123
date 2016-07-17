@@ -37,9 +37,9 @@
         "bouncer":  "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
         "rdj": "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
         "subscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png",
-        "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png",
+        "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
     },
     "emotes": {
-    	"emote_name": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
+    	"emote_name": null
     }
 }
