@@ -32,11 +32,11 @@
         "admin": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador": "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
         "host": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
-        "cohost":  "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
-        "manager": "https://cdn.radiant.dj/rcs/icons/radiant/host.png",
-        "bouncer":  "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
-        "rdj": "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
-        "subscriber": "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "cohost":  "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "manager": "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+        "bouncer":  "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
+        "rdj": "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "subscriber": null,
         "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
     },
     "emotes": {
