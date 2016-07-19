@@ -17,7 +17,7 @@
         "admin": "#42A5DC",
         "ambassador": "#84B423",
         "host": "#42A5DC",
-        "cohost": "#F3508F",
+        "cohost": "#84B423",
         "manager": "#F3508F",
         "bouncer": "#F3508F",
         "rdj": "#F3508F",
@@ -33,11 +33,11 @@
         "ambassador": "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
         "host": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "cohost":  "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
-        "manager": "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
-        "bouncer":  "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
-        "rdj": "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
-        "subscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png",
-        "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/silversubscriber.png"
+        "manager": "https://cdn.radiant.dj/rcs/icons/radiant/host.png",
+        "bouncer":  "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
+        "rdj": "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
+        "subscriber": "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
     },
     "emotes": {
     	"emote_name": null
